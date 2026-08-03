@@ -161,7 +161,7 @@ https://pokeapi.co/
 
 **Thuvii**
 
-GitHub: **@Thuvii**
+GitHub: [@Thuvii](https://github.com/Thuvii)
 
 ---
 
